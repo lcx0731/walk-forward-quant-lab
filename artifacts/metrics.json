@@ -1,0 +1,16 @@
+{
+  "risk_scaled": {
+    "cagr": -0.039348,
+    "annualized_volatility": 0.242551,
+    "sharpe": -0.044072,
+    "max_drawdown": -0.525003,
+    "annualized_turnover": 66.803047
+  },
+  "baseline": {
+    "cagr": -0.014225,
+    "annualized_volatility": 0.253008,
+    "sharpe": 0.069819,
+    "max_drawdown": -0.458152,
+    "annualized_turnover": 51.853211
+  }
+}
